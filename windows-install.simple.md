@@ -101,5 +101,5 @@ Whenever you want to run **SideJITServer**, follow these steps:
    *(No need to add ********`--pair`******** this time.)*
 5. Run the shortcut on your iPhone and test if it works over Wi-Fi.
 
-You're all set! 🎉
+You're all set!  🎉
 
