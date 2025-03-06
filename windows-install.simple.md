@@ -40,7 +40,7 @@ Now this step is a bit tricky. follow these carefully. Do not just blindly copy 
    ```
 3. Create a virtual environment:
    ```
-   python3 -m venv venv
+   python -m venv venv
    ```
 4. Activate the virtual environment:
    ```
